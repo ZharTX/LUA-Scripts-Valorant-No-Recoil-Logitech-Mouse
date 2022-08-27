@@ -1,0 +1,10 @@
+If your set everything correct but your GHUB or LGS script not working in game ,
+you have to do these steps,
+
+1) Uninstall G Hub or LGS with Revo Uninstaller in Advanced Mode make sure your delete in the Advanced Mode the reg and all other files.
+Download Link for Revo Uninstaller (FREE): https://www.revouninstaller.com/start-freeware-download/
+2) Locate your Temp Files and delete all files (Windows key + R then search %Temp%)
+3) Restart Your PC
+4) Again, locate your Temp Files and delete all files (Windows key + R then search %Temp%)
+5) Reinstall G Hub or LGS. Right click G Hub on desktop > Properties > Compatibility > Run this Programme as Administrator
+6) Open GHUB or LGS as Administrator. Add script back.
