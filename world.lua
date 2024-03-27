@@ -6,20 +6,7 @@
 --| macro is working on your PC.                                              |--
 ---------------------------------------------------------------------------------
 
-if (event == "PROFILE_ACTIVATED") then end
-EnablePrimaryMouseButtonEvents(true)
-function OnEvent(event, arg)
-  if IsMouseButtonPressed(4) then
-    repeat
-      if IsMouseButtonPressed(1) then
-        repeat
-        MoveMouseRelative(0, 2)
-        Sleep(1)
-        until not IsMouseButtonPressed(1)
-      end
-    until not IsMouseButtonPressed(1)
-  end
-end
+NONE
 
 --| If this macro works on your pc, you can buy the paid version
 --| Contact Me for Purchase VIP Macro 99% No Recoil
